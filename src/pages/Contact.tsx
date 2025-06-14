@@ -1,5 +1,5 @@
 
-import { Mail, Phone, MapPin, Linkedin, Github, Twitter, MessageSquare, Calendar, Clock, ExternalLink } from "lucide-react";
+import { Mail, Phone, MapPin, Linkedin, Github, Twitter, MessageSquare, Calendar, Clock, ExternalLink, ArrowRight } from "lucide-react";
 import Navigation from "@/components/Navigation";
 import Footer from "@/components/Footer";
 
